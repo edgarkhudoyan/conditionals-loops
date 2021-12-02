@@ -1,4 +1,5 @@
 // Given a number. Print “odd” if the number is odd and “even” if itʼs even.
+'use strict';
 
 let num = 294;
 
