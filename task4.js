@@ -3,5 +3,5 @@
 let enterNumber = parseInt(prompt('Please enter a number'));
 
 if (enterNumber % 7 == 0 && enterNumber % 5 == 0) {
-  console.log(`${enterNumber} is a multiple of 7 and 5`);
+  alert(`${enterNumber} is a multiple of 7 and 5`);
 }
