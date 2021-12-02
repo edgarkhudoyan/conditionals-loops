@@ -5,7 +5,7 @@ let num = 895796;
 
 let toArr = num.toString().split('');
 
-let firstItem = toArr.pop();
-let lastItem = toArr.shift();
+let toFirst = toArr.pop();
+let toLast = toArr.shift();
 
-console.log(`${firstItem} ${toArr} ${lastItem}`);
+console.log(`${toFirst} ${toArr} ${toLast}`);
