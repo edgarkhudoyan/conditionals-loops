@@ -10,4 +10,5 @@ let nums = arr.filter((item) => {
 let strings = arr.filter((item) => {
   return typeof item === 'string';
 });
-console.log(strings);
+
+console.log(`Numbers: ${nums.length}, Strings: ${strings.length}`);
