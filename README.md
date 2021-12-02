@@ -246,15 +246,3 @@ Input Output
 12 asdf “Invalid”
 Aaza 1234566 # “Valid”
 ```
-
-### Literature
-
-_Available in russian_
-
-```
-Objects
-Arrays
-Conditional branching: if, '?'
-The "switch" statement
-Loops: while and for
-```
