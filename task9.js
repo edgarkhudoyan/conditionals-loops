@@ -1,9 +1,10 @@
 // Insert a number. Print ‘yesʼ if the number is prime, ‘noʼ otherwise.
 'use strict';
-let num = 14;
-
-if (num % num === 0 && num % 1 === 0) {
-  console.log('Yes');
-} else if (num % num === 1) {
-  console.log('No');
+function isPrime(num) {
+  for (let i = 2; i < num; i++) {
+    if (num % i === 0) return false;
+    else return num > 1;
+  }
 }
+
+isPrime(13);
