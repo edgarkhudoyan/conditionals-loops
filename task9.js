@@ -1,10 +1,16 @@
 // Insert a number. Print ‘yesʼ if the number is prime, ‘noʼ otherwise.
 'use strict';
-function isPrime(num) {
-  for (let i = 2; i < num; i++) {
-    if (num % i === 0) return false;
-    else return num > 1;
+
+const number = parseInt(prompt('Enter a number'));
+
+if (number > 1) {
+  for (let i = 2; i < number; i++) {
+    if (number % i == 0) {
+      alert('No');
+      break;
+    } else {
+      alert('Yes');
+      break;
+    }
   }
 }
-
-isPrime(13);
