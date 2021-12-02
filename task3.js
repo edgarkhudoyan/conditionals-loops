@@ -3,12 +3,10 @@
 let num = 750;
 
 let toArr = num.toString().split('');
-let reversed = toArr.reverse().join('');
+let reversed = num.toString().split('').reverse().join('');
 
-if (toArr[toArr.length - 1] == '0') {
-  console.log(num);
-} else if (toArr[toArr.length - 1] != '0') {
+if (toArr[toArr.length - 1] != '0') {
   console.log(reversed);
 } else {
-  console.log('Not a valid number');
+  console.log(num);
 }
