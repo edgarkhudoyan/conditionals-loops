@@ -8,4 +8,4 @@ let fibonacci = function (num) {
   }
 };
 
-fibonacci(10);
+console.log(fibonacci(10));
