@@ -2,6 +2,7 @@
 let digit = parseInt(prompt('Please insert a digit'));
 let number = parseInt(prompt('Please insert a number'));
 
-let str = digit.toString.split('');
+let str = number.toString().split('').join('');
 
-console.log(str.includes(number));
+if (str.includes(digit)) alert('Yes');
+else alert('No');
