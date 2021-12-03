@@ -36,3 +36,7 @@ Required Tasks
     [Task 16 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_16.js).
 17. Given a sentence as a string. Split it according to space and comma and create an array consisting of the words of the array. The last word should not contain the last . or ! .
     [Task 17 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_17.js).
+18. Given an array of a size smaller than 100. It consists of numbers from 0 to 99 in any order. Create a new array where each element from that array is placed under the index of its value. Start from the smallest value and end with the biggest one. If there are missing values, put in its places undefined.
+    [Task 18 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_18.js).
+19. Given an array consisting from the arrays of numbers (like a two-dimensional array). Find sum of each row and print them as an array.
+    [Task 19 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_19.js).
