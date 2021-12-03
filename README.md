@@ -32,3 +32,5 @@ Required Tasks
     [Task 14 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_11.js).
 15. Given an array of strings. Find the strings with maximum and minimum lengths in array. Print the sum of their lengths.
     [Task 15 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_15.js).
+16. Given an array of numbers and a number. Find the index of a first element which is equal to that number. If there is not such a number, that find the index of the first element which is the closest to it.
+    [Task 16 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_16.js).
