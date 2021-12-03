@@ -29,7 +29,7 @@ Required Tasks
 13. Insert a number. Calculate product and sum of the digits of the number. If product is divisible by the sum, print the quotient, otherwise print the remainder.  
     [Task 13 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_13.js).
 14. Insert a number. Calculate product and sum of the digits of the number. If product is divisible by the sum, print the quotient, otherwise print the remainder.  
-    [Task 14 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_11.js).
+    [Task 14 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_14.js).
 15. Given an array of strings. Find the strings with maximum and minimum lengths in array. Print the sum of their lengths.
     [Task 15 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_15.js).
 16. Given an array of numbers and a number. Find the index of a first element which is equal to that number. If there is not such a number, that find the index of the first element which is the closest to it.
