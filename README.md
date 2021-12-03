@@ -34,3 +34,5 @@ Required Tasks
     [Task 15 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_15.js).
 16. Given an array of numbers and a number. Find the index of a first element which is equal to that number. If there is not such a number, that find the index of the first element which is the closest to it.
     [Task 16 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_16.js).
+17. Given a sentence as a string. Split it according to space and comma and create an array consisting of the words of the array. The last word should not contain the last . or ! .
+    [Task 17 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_17.js).
