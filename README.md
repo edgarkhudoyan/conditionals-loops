@@ -30,3 +30,5 @@ Required Tasks
     [Task 13 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_13.js).
 14. Insert a number. Calculate product and sum of the digits of the number. If product is divisible by the sum, print the quotient, otherwise print the remainder.  
     [Task 14 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_11.js).
+15. Given an array of strings. Find the strings with maximum and minimum lengths in array. Print the sum of their lengths.
+    [Task 15 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_15.js).
