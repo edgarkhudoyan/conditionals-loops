@@ -40,3 +40,5 @@ Required Tasks
     [Task 18 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_18.js).
 19. Given an array consisting from the arrays of numbers (like a two-dimensional array). Find sum of each row and print them as an array.
     [Task 19 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_19.js).
+20. Print the following pattern.
+    [Task 20 Solution](https://github.com/edgarkhudoyan/conditionals-loops/blob/main/task_20.js).
