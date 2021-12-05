@@ -1,2 +1,5 @@
 // Print the following pattern
-function generatePyramid() {}
+function generatePyramid() {
+  let rows = 5,
+    arr;
+}
