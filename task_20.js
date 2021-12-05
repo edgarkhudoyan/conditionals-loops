@@ -10,3 +10,5 @@ function generatePyramid() {
     console.log(arr.join(' ') + '\n');
   }
 }
+
+generatePyramid();
